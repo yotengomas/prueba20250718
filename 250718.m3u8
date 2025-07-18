@@ -16,3 +16,8 @@ https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+
+#EXTINF:11,ESPN Premium HD
+http://181.10.123.154:14000/play/a078/index.m3u8
+#EXTINF:11,TNT Sports HD
+http://181.10.123.154:14000/play/a0bc/index.m3u8
