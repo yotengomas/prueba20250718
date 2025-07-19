@@ -17,7 +17,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_e
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/416es+6QDLL._SX342_SY445_.jpg" group-title="DEPORTES", ESPN PREMIUM 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBXxD3yD/espnpre.pngg" group-title="DEPORTES", ESPN PREMIUM RAPIDO
 http://181.10.123.154:14000/play/a078/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/220-2208467_boca-juniors-hd-png-download.png" group-title="DEPORTES", TNT SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BH58H3qZ/tntsporpre.png" group-title="DEPORTES", TNT SPORTS RAPIDO
 http://181.10.123.154:14000/play/a0bc/index.m3u8
