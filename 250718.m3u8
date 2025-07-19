@@ -1,7 +1,7 @@
 #EXTM3U list-name="ARGENTINA ott navigator" list-image="https://cdn2.steamgriddb.com/icon_thumb/23a4b2b5e5b91d0538b12816b4668822.png"
 
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" group-title="FULBITO", ESPN PREMIUM
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png", ESPN PREMIUM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QYanwqFfWQqTmYhv6uxCVw","kid":"TCMNvH9qS/pq0Kpz/3kjdA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3950.png" group-title="FULBITO", TNT SPORTS
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3950.png", TNT SPORTS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6kbk6fETLo3XH7d/fVUFig","kid":"vID6PaaW5QP5QP3l9oGhxQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -17,7 +17,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_e
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yBXxD3yD/espnpre.pngg" group-title="FULBITO", ESPN PREMIUM RAPIDO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBXxD3yD/espnpre.pngg", ESPN PREMIUM RAPIDO
 http://181.10.123.154:14000/play/a078/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BH58H3qZ/tntsporpre.png" group-title="FULBITO", TNT SPORTS RAPIDO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BH58H3qZ/tntsporpre.png", TNT SPORTS RAPIDO
 http://181.10.123.154:14000/play/a0bc/index.m3u8
