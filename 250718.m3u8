@@ -21,3 +21,67 @@ https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_H
 http://181.10.123.154:14000/play/a078/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH58H3qZ/tntsporpre.png" group-title="DEPORTES", TNT SPORTS RAPIDO
 http://181.10.123.154:14000/play/a0bc/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
+http://181.209.114.13:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
+http://201.217.246.177:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
+http://138.121.114.50:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="Tango Sports", ESPN  
+http://138.121.114.50:8000/play/a0a2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="Tango Sports", ESPN 2
+http://181.209.114.13:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Tango Sports", ESPN 3
+http://181.209.114.13:8000/play/a05b/index.m3u8
+#EXTINF:-1 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Tango Sports", ESPN 4
+http://181.209.114.13:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Tango Sports", FOX Sports
+http://181.209.114.13:8000/play/a07j/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Tango Sports", FOX Sports 2
+http://181.209.114.13:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Tango Sports", FOX Sports 3 
+http://181.209.114.13:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="Tango Sports", DEPORTV 
+https://val02.ride.com.ar/tvmia/an09/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS Internacional
+http://190.60.37.154:45000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://179.63.6.17:9000/play/a08e
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://179.1.146.123:8002/play/a0oa/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 1
+http://143.0.67.77:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 2
+http://143.0.67.77:8000/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 3
+http://201.217.246.177:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 4
+http://201.217.246.177:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 5
+http://200.55.244.75:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 6
+http://200.55.244.75:8000/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 7
+http://186.148.196.82:8001/play/a00p
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 8
+http://186.148.196.82:8001/play/a04r
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 9
+http://190.104.67.112:234/play/a086/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 10
+http://190.104.67.112:234/play/a06z/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 13
+http://190.104.67.111:234/play/a086/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 14
+http://190.104.67.111:234/play/a06z/index.m3u8
