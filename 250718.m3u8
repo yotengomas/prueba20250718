@@ -61,27 +61,23 @@ http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 http://179.1.146.123:8002/play/a0oa/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 1
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", ESPN PREMIUM
 http://143.0.67.77:8000/play/a078/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 2
-http://143.0.67.77:8000/play/a0bc/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 3
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", ESPN PREMIUM
 http://201.217.246.177:8000/play/a078/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 4
-http://201.217.246.177:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 5
-http://200.55.244.75:8000/play/a078/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 6
-http://200.55.244.75:8000/play/a0bc/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 7
-http://186.148.196.82:8001/play/a00p
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", ESPN PREMIUM
 http://186.148.196.82:8001/play/a04r
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 9
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", ESPN PREMIUM
 http://190.104.67.112:234/play/a086/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 10
-http://190.104.67.112:234/play/a06z/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 13
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", ESPN PREMIUM
 http://190.104.67.111:234/play/a086/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", Tango Sports 14
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", TNT SPORTS PREMIUM
+http://143.0.67.77:8000/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", TNT SPORTS PREMIUM
+http://201.217.246.177:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", TNT SPORTS PREMIUM
+http://186.148.196.82:8001/play/a00p
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", TNT SPORTS PREMIUM
+http://190.104.67.112:234/play/a06z/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/851-8511137_tango-rosario-fue-el-nombre-del-baln-que.png" group-title="Tango Sports", TNT SPORTS PREMIUM
 http://190.104.67.111:234/play/a06z/index.m3u8
