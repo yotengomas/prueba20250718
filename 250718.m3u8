@@ -1,7 +1,7 @@
 #EXTM3U list-name="ARGENTINA ott navigator" list-image="https://cdn2.steamgriddb.com/icon_thumb/23a4b2b5e5b91d0538b12816b4668822.png"
 
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" group-title="DEPORTES", ESPN PREMIUM
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" group-title="DEPORTES", ESPn PREMIUM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QYanwqFfWQqTmYhv6uxCVw","kid":"TCMNvH9qS/pq0Kpz/3kjdA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
